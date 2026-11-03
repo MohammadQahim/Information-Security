@@ -19,3 +19,4 @@ This repository contains my lab files and screenshots documenting my work for th
 | Lab 11 | Installing Software from Source |
 | Lab 12 | Password Attacks & Authentication Security |
 | Lab 13 | Keyloggers & Endpoint Monitoring |
+| Labs 4, 5 & 6 (Combined) | Phishing, User Management & File Permissions — combined report |
